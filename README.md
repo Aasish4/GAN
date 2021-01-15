@@ -1,1 +1,1 @@
-# StyleGAN2
+# Generative Adversarial Networks
